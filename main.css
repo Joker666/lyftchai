@@ -35,18 +35,18 @@ h2 {
 }
 
 .crop {
-    width: 200px;
-    height: 200px;
+    width: 140px;
+    height: 140px;
     overflow: hidden;
     border-radius: 50%;
     position: absolute;
     bottom: 28%;
-    left: 40%;
+    left: 43%;
 }
 
 .crop img {
-    width: 210px;
-    height: 210px;
+    width: 150px;
+    height: 150px;
     margin-top: -5px;
     margin-left: -5px;
 }
